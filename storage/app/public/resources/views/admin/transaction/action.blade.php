@@ -1,0 +1,1 @@
+<a href="{{route('admin.transaction.detail',$item->id)}}" target="_blank" class="btn btn-outline-warning me-3 waves-effect " title="Transaction Detail"><i class="fa fa-bars"></i></a>

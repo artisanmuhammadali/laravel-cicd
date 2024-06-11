@@ -1,0 +1,1 @@
+<a href="{{route('admin.user.detail',[$user_id , 'info'])}}" target="_blank">{{$user_name}}</a>

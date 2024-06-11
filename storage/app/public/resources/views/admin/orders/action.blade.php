@@ -1,0 +1,1 @@
+<a href="{{route('admin.orders.detail',$query->id)}}" target="_blank" class="btn btn-outline-warning me-3" title="Order Details"><i class="fa fa-bars"></i></a>
